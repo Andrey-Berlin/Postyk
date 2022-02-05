@@ -56,6 +56,12 @@ text-align: center;
 
 }
 
+section {
+  
+ background:#ffffff; 
+  
+}
+
 #NetWebAppJs{
 
 text-align: center;
