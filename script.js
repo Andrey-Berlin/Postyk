@@ -84,6 +84,7 @@ header.innerHTML = `
 <h1>Postyk</h1>
 <p>Версия:0.1</p>
 <p>Веб - приложение для создания постов</p>
+<p>Postyk:<a href="https://andrey-berlin.github.io/"> Различные версии. Нажать  здесь</a></p>
 <!--div id="NetWebAppJs">
 
 
@@ -179,6 +180,7 @@ footer.innerHTML = `
 <br>
 <button onClick="shotit()">Сделать скриншот</button>
 <br>
+<p>Postyk:<a href="https://andrey-berlin.github.io/"> Различные версии. Нажать  здесь</a></p>
 <br>
 <p>C уважением, Берлин Андрей.</p>
 
