@@ -82,6 +82,7 @@ li {
 let header = document.getElementById("header");
 header.innerHTML = `
 <h1>Postyk</h1>
+<p>Версия:0.1</p>
 <p>Веб - приложение для создания постов</p>
 <!--div id="NetWebAppJs">
 
