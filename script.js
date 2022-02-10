@@ -126,7 +126,7 @@ header.innerHTML = `
 
          <label for="">
          3. Поменять размер текста, движением ползунка от -> 18px -> 100px:
-         <label>
+         </label>
          <br>
          <input type="range" min="18" name="a" max="100" value="18" step="10" id="font size" >
          <!--output name="x" for="a b"></output-->
@@ -137,7 +137,7 @@ header.innerHTML = `
          
          <label for="">
          4. Выравнить текст вправо-влево:
-         <label>
+         </label>
          <br>
          <input type = "range" min='0' max='100' value="10" step='10' id="poziciyaText"  >
          <br>
