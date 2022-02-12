@@ -15,7 +15,7 @@ let shotit = function() {
 
 
 
-let body = document.getElementById("body");
+/*let body = document.getElementById("body");
 body.innerHTML = `
 <style id = "style">
 </style>
@@ -28,7 +28,7 @@ body.innerHTML = `
 </section>
 <footer id="footer">
 </footer>
-`;
+`;*/
 
 let style = document.getElementById("style");
 style.innerHTML = `
